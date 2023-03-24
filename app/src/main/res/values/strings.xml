@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpaceInvaderController</string>
+    <string name="todo" />
+    <string name="left" />
+    <string name="todo1" />
+    <string name="todo3" />
+    <string name="todo4" />
+    <string name="bluetooth" />
+    <string name="bluetooth1">Bluetooth</string>
+</resources>
